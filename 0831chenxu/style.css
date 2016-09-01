@@ -1,0 +1,22 @@
+
+#box div{
+    width: 100px;
+    height: 100px;
+    background: brown;
+}
+
+#box .rubbishClass{
+    width: 100px;
+    height: 300px;
+    margin-left: 10px;
+    background: gray;
+    float: left;
+}
+
+#box .rubbishBoxClass{
+    width: 100px;
+    height: 300px;
+    margin-left: 10px;
+    background: green;
+    float: left;
+}
