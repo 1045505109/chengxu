@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#nav{
+    height: 20px;
+    width: 100%;
+}
+ul{
+    width: 100%;
+    height: 100%;
+}
+li{
+    width: 100px;
+    float: left;
+    border-left:1px solid ;
+    border-right:1px solid ;
+    text-align: center;
+}
+
+#dl{
+    width: 200px;
+    margin: 200px auto;
+    border: 1px solid #cccccc;
+    border-radius: 20px;
+    font-size: 12px;
+}
+#yhm{
+    width: 150px;
+ margin: 10px auto;
+
+}
+#mm{
+    width: 150px;
+    margin: 10px auto;
+}
+input{
+    width: 150px;
+    height: 20px;
+    margin-top:5px ;
+    border-radius:3px ;
+    outline: 0;
+}
+button{
+    margin:0 25px 10px;
+    width: 150px;
+    height: 20px;
+    border-radius: 3px;
+    outline: 0;
+}
