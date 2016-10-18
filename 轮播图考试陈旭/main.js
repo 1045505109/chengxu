@@ -107,7 +107,7 @@
             moveTo(offset - +700);
             index++;
             showBut()
-        }, 100);
+        }, 10);
         container.onmousemove = function () {
             clearInterval(timer)
         }
